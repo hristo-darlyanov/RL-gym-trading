@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "tradingapp-fdaac",
+    "private_key_id": "a0bbd37d0dee1c98e75b601fad23c9112152b38d",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/5CDnSuFAccLO\nWTdaOVaRLJfUkvgDo2yVWd0qksYJj4I/Vdo/928dv2Wq/jKR0xUFGqkkMON49md8\nWA3nL8WKz74T7v8YyQdXF8iJMaVezAG6emVQN7xIoGxTN8AVcnOAt1TtafxvB+if\nf29eTGjyLm/4hJ47zw/XWg6Z3mQ8Y9yPgvqcF5twchl4NHPy1kLGQbIGzisBZGbh\nUkDBhbPeDLBqpm0ZSHBE1o2OPYtgXENUoi5ERineLLGlGkUNnczcSCy5AyGAMfVt\nj6neE0PbE4Pi0S3qZGA/BzLOgoAZnFGYwWI4Yspn8kt4OJCkoLjJBsbWDhUKlI+6\nzMlDYIJhAgMBAAECggEAOWrvlYXIZNolak0zzOF/T61COS9I2v3Zjc736LdGXrH8\nTStJRP6q1wHgUAwD4bKBhad2mQev6RAB4ykN7/FRcLm8rIZE+ouckKjjLnoWe4kb\ns0rQafJjem/WOghih4hZm1hAJ1IhYK/DIYamMlc2x9CxXHGCT28j1FJ0MAJlh9Pr\n8kFBAvUeR99iQh9cpwwrvO+xWF5lg4bJNEFQmzlP8j66TxFY08hGafer5b/UZNj3\nmQ2NUECoj5/uEqqvyvE2zYLae8elerjXbrEriD+rKfMTdfnRV/GAUfxZWq9gQ+HB\naUeg9Y89Xb82gROFurIFeU5/YZp5+rpl5CUSvx9xCQKBgQD8oX4RChnZrMgl8gse\npmbY258ISZutmTLoJz6Mm/0WVY67onwsifSfCkWXf/hfwnETqchKpeGQpTcjEQt3\nYkUPNsQN/6CU4TD4BBL1/0lxjFdbTBXUFh6cBNV8KH2oNSfe29wtOwpHXtTQd/D2\nYuYWMXZ5NvJEpmtLjIcOJtZeowKBgQDCc0O248Npth4b69yJQBnYB8fWuWouowNn\nIwC2C6kbH7UQuKkk1+V6QY/4hH7ysKxjT5xfCgPhM6BklksVV/4/+U4FoAFUHbu/\nGH0eEE08hkQXIljFjv51g9bcwRxUQoaab7QDp2sC2l9MXc1gDoGVn+STEgr6pW3Y\n0Bw7W2G/KwKBgQCd3mUjTMaeqkRgwgKE4sN+XK/iw+zO7N9NB8kkoQ3k+Q463uzu\nAD+nawnWBJg3bxCukvig/UwZ0cTE2w/pSLWTLkwR216D6r1pH1Kh+yfwFx035jH1\n2OTD5plp/vuXM7B4qbfLZAumUfJ3W5xuu5rA36QDV3zJvZ1rFqQHCeoINQKBgAjI\nS/amstzDbPi13nAUhRZMw6nfFfylQDIYUp/mRu0CsZrfvEP9vE+ZRndjBJjRgfe6\nUMW6HhK90jC42QtNvh4FlJCMeYLjFOe8o2oIMnTZW5nv4zKJEtUb70hpMG5d0taG\n1QqVNTAbzNIWKoB8Jz4qypgZ6IUJk7yHKb9EkVWhAoGBALpZvD7yt0qScuB++k7Z\nzpiTRoLG1w967einqZVQB8QK5A5V9WYMc9t9/iZ0rKJrkYC2FdrQqkCN/l9R4sGP\n3BoE2Zk6glIQkSCnoQ4fJl/TtAKGkFcaqUm/PU++UTHT3xMccuOpBBQvlQTlr5Yq\nPIe4i1ZrzWIvEwNfxZ73bHTn\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-94j5l@tradingapp-fdaac.iam.gserviceaccount.com",
+    "client_id": "109540913402110228513",
+    "auth_uri": "https=//accounts.google.com/o/oauth2/auth",
+    "token_uri": "https=//oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https=//www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https=//www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-94j5l%40tradingapp-fdaac.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
